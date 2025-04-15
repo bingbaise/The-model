@@ -1,0 +1,20 @@
+To provide a detailed explanation of the code usage, I will elaborate as follows:
+
+model.py - Core experimental component
+
+Data Preparation: Begin by loading our provided dataset in the data reading section
+Code Flow:
+Initial data preprocessing
+External independent validation
+Experimental visualization module
+shap_analysis.py - Standalone SHAP validation
+
+Directly generates SHAP plots for each analysis stage
+utils/ - Custom methods
+
+Must be used in conjunction with model.py
+requirements.txt - Environment dependencies
+
+Install all required packages before execution
+For any questions, please leave comments below.
+
